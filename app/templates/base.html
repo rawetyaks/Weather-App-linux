@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<head>
+    {% block head %}
+    <link rel="stylesheet" href="static\style.css" />
+    <title>ha' tiwę:'nayes</title>
+    {% endblock %}
+</head>
+
+<body>
+
+
+    <div id="header"><a href="about">[tawę'te kyení:kę]</a> <a href="contact">[nehske'nę'θ]</a> <a href="translate">[nekawętakę'né:ti]</a></div>
+
+    <div id="colmask">
+        <div id="column">
+            <div id="city">
+                {% block city %}
+                {{ city_name }}
+                {% endblock %}
+            </div>
+
+            <div id="date">
+                {% block day_of_week %}
+                {{ all_data }}
+                {% endblock %}
+                <br>
+                <p>{{ mmddyy_numeric }}</p>
+                <p>{{ spelled_out_mmddyy }}</p>
+            </div>
+
+            <div id="weather_desc">
+                {% block weather_description %}
+                {{ weather_desc }}
+                {% endblock %}
+            </div>
+
+            <div id="weather_icon">
+                {% block weather_icon %}
+                <img src="static\img\clear_lg_day.png"></img>
+                {% endblock %}
+            </div>
+
+            <div id="temp">
+                {% block temp %}
+                {{ temp }} °F
+                {% endblock %}
+            </div>
+
+             <div id="temp_written">
+                {% block temp_written %}
+                {{ temp_cur }}
+                {% endblock %}
+            </div>
+
+            <div id="desc_term">
+                {% block desc_term %}
+
+                {% endblock %}
+            </div>
+
+
+        </div>
+    </div>
+
+    <div id="footer">
+        {% block footer %}
+        &copy; Copyright 2008 by <a href="http://domain.invalid/">you</a>.
+        {% endblock %}
+    </div>
+</body>
+</html>

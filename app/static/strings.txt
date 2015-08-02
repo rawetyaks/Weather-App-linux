@@ -1,0 +1,134 @@
+﻿super_id,eng_lex,tus_lex
+1,one,ę:či
+2,two,ne:kti:
+3,three,áhsę
+4,four,hę'tahk
+5,five,wísk
+6,six,úhya'k
+7,seven,čá:'nahk
+8,eight,né:krę'
+9,nine,níhrę'
+10,ten,wáhθhę:
+11,eleven,ę:či θkáhe's
+12,twelve,ne:kti: θkáhe's
+13,thirteen,áhsę θkáhe's
+14,fourteen,hę'tahk θkáhe's
+15,fifteen,wísk θkáhe's
+16,sixteen,úhya'k θkáhe's
+17,seventeen,čá:'nahk θkáhe's
+18,eighteen,né:krę' θkáhe's
+19,nineteen,níhrę' θkáhe's
+20,twenty,newáhθhę:
+21,thirty,áhsę tiwáhθhę:
+22,forty,hę'tahk tiwáhθhę:
+23,fifty,wísk tiwáhθhę:
+24,sixty,úhya'k tiwáhθhę:
+25,seventy,čá:'nahk tiwáhθhę:
+26,eighty,né:krę' tiwáhθhę:
+27,ninety,níhrę' tiwáhθhę:
+28,hundred,káyahstih
+200,thunderstorm with light rain,hí'nę' tíhsnę' newatkahréhnari:ks
+201,thunderstorm with rain,hí'nę' tíhsnę' newatkahréhnari:ks
+202,thunderstorm with heavy rain,hí'nę' tíhsnę' newatkahréhnari:ks
+210,light thunderstorm,hí'nę' tíhsnę' newatkahréhnari:ks
+211,thunderstorm,hí'nę' tíhsnę' newatkahréhnari:ks
+212,heavy thunderstorm,hí'nę' tíhsnę' newatkahréhnari:ks
+221,ragged thunderstorm,hí'nę' tíhsnę' newatkahréhnari:ks
+230,thunderstorm with light drizzle,hí'nę' tíhsnę' newatkahréhnari:ks
+231,thunderstorm with drizzle,hí'nę' tíhsnę' newatkahréhnari:ks
+232,thunderstorm with heavy drizzle,hí'nę' tíhsnę' newatkahréhnari:ks
+300,light intensity drizzle,wę:tu:č
+301,drizzle,wę:tu:č
+302,heavy intensity drizzle,wę:tu:č
+310,light intensity drizzle rain,wę:tu:č
+311,drizzle rain,wę:tu:č
+312,heavy intensity drizzle rain,wę:tu:č
+313,shower rain and drizzle,wę:tu:č
+314,heavy shower rain and drizzle,wę:tu:č
+321,shower drizzle,wę:tu:č
+500,light rain,wę:tu:č
+501,moderate rain,wę:tu:č
+502,heavy intensity rain,wę:tu:č
+503,very heavy rain,wę:tu:č
+504,extreme rain,wę:tu:č
+511,freezing rain,wę:tu:č
+520,light intensity shower rain,wę:tu:č
+521,shower rain,wę:tu:č
+522,heavy intensity shower rain,wę:tu:č
+531,ragged shower rain,wę:tu:č
+701,mist,??
+721,haze,??
+741,fog,??
+900,tornado,??
+903,cold,??
+904,hot,??
+905,windy,??
+906,hail,??
+951,calm,??
+952,light breeze,??
+953,gentle breeze,??
+954,moderate breeze,??
+955,fresh breeze,??
+956,strong breeze,??
+957,"high wind, near gale",??
+958,gale,??
+959,severe gale,??
+960,storm,??
+961,violent storm,??
+962,hurricane,??
+800,clear sky,íhskah yura'θrú:tyę
+801,few clouds,yura'θrú:tyę ahči'áh
+802,scattered clouds,yura'θrú:tyę
+803,broken clouds,weyúhre: yura'θrú:tyę
+804,overcast clouds,thwé:'n yura'θrú:tyę
+905,1,ę:či
+906,2,ne:kti:
+907,3,áhsę
+908,4,hę'tahk
+909,5,wísk
+910,6,úhya'k
+911,7,čá:'nahk
+912,8,né:krę'
+913,9,níhrę'
+914,10,wáhθhę:
+915,11,ę:či θkáhe's
+916,12,ne:kti: θkáhe's
+917,13,áhsę θkáhe's
+918,14,hę'tahk θkáhe's
+919,15,wísk θkáhe's
+920,16,úhya'k θkáhe's
+921,17,čá:'nahk θkáhe's
+922,18,né:krę' θkáhe's
+923,19,níhrę' θkáhe's
+924,20,newáhθhę:
+925,30,áhsę tiwáhθhę:
+926,40,hę'tahk tiwáhθhę:
+927,50,wísk tiwáhθhę:
+928,60,úhya'k tiwáhθhę:
+929,70,čá:'nahk tiwáhθhę:
+930,80,né:krę' tiwáhθhę:
+931,90,níhrę' tiwáhθhę:
+932,100,káyahstih
+933,01,ę:či
+934,02,ne:kti:
+935,03,áhsę
+936,04,hę'tahk
+937,05,wísk
+938,06,úhya'k
+939,07,čá:'nahk
+940,08,né:krę'
+941,09,níhrę'
+101,january,θkawé'rkye
+102,february,kęnęhti
+103,march,kanęharę'kye
+104,april,čuhyeθákye
+105,may,kę:nę's
+106,june,kęnhyeháh
+107,july,kęnhyehé:θu'
+108,august,rahθe'kyeháh
+109,september,???
+110,october,rahθe'kyehé:θu'
+111,november,kuhseshęháh
+112,december,kuhseshęhé:θu'
+400,Buffalo,Nyuθù:rę
+401,Lewiston,Uyhęha:kwt
